@@ -1,0 +1,7 @@
+C:\Users\mutch\source\repos\LearningC#\LearningC#\bin\Debug\LearningC#.exe.config
+C:\Users\mutch\source\repos\LearningC#\LearningC#\bin\Debug\LearningC#.exe
+C:\Users\mutch\source\repos\LearningC#\LearningC#\bin\Debug\LearningC#.pdb
+C:\Users\mutch\source\repos\LearningC#\LearningC#\obj\Debug\LearningC#.csproj.AssemblyReference.cache
+C:\Users\mutch\source\repos\LearningC#\LearningC#\obj\Debug\LearningC#.csproj.CoreCompileInputs.cache
+C:\Users\mutch\source\repos\LearningC#\LearningC#\obj\Debug\LearningC#.exe
+C:\Users\mutch\source\repos\LearningC#\LearningC#\obj\Debug\LearningC#.pdb
